@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>CATALOG</h2>
+<br>
+<br>
+<ol>
+<li><a href="file:///C:/Users/DaniDulcheTeSeduche/Desktop/Lab05-tema%20Mihu%20Daniel-Florin/ex3%20catalog/Maries%20Diana.html">Maries Diana</a></li>
+<li><a href="file:///C:/Users/DaniDulcheTeSeduche/Desktop/Lab05-tema%20Mihu%20Daniel-Florin/ex3%20catalog/Andrei%20Aurelian%20Mates.html">Mates Andrei Aurelian</a></li>
+<li><a href="file:///C:/Users/DaniDulcheTeSeduche/Desktop/Lab05-tema%20Mihu%20Daniel-Florin/ex3%20catalog/Zah%20Andrei.html">Zah Andrei</a></li>
+<li><a href="file:///C:/Users/DaniDulcheTeSeduche/Desktop/Lab05-tema%20Mihu%20Daniel-Florin/Pagina%20descriere%20Lab05-Mihu%20Daniel-Florin.html">Mihu Daniel-Florin</a></li>
+<ol>
+</body>
+</html>
